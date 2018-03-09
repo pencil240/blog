@@ -14,7 +14,7 @@ A modern [Jekyll](https://jekyllrb.com/) theme focused on speed performance & SE
 * Support for [Disqus](https://disqus.com/) comments
 * Form submissions with [Formspree](#formspree)
 
-[Preview Demo](http://pencil240.gitee.io/blog)
+[Preview Demo](https://pencil240.github.io/blog)
 
 ## Installation
 

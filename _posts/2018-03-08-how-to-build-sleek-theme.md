@@ -4,8 +4,11 @@ title: 安装Sleek Theme全流程
 featured-img: test1
 mathjax: true
 ---
+
+* Table of content
+{:toc}
+
 # Jekyll (Sleek Theme)
-[toc]
 ## 一、Install VMware Workstation 14 Pro
 
 ```

@@ -39,6 +39,7 @@ permalink: /:title/
 compress_html:
   clippings: all
 
+gems: [jekyll-sitemap, jekyll-seo-tag]
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
